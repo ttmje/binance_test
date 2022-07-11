@@ -16,8 +16,8 @@ class Client():
         print('LastUpdateID is:', self.LastUpdateID, 'shapshot at: ', now)
 
     def save_orderbook(self):
-       with open(f'OBsnapshot_{now}.txt', "w") as file:
-           file.write(self.r.text)
+      with open(f'OBsnapshot_{now}.txt', "w") as file:
+          file.write(self.r.text)
 
     async def depth(self):
         urlws = "wss://stream.binance.com:9443/stream?streams=maticusdt@depth@100ms"
@@ -25,32 +25,42 @@ class Client():
             task.get_snapshot()
             #task.save_orderbook()
             while True:
-               data = json.loads(await websocket.recv())['data']
-               if data['U'] <=  self.orderbook['lastUpdateId'] + 1 and data['u'] >=  self.orderbook['lastUpdateId'] + 1:
-                   self.orderbook['lastUpdateId'] = data['u']
-                   self.update_order_book(data)
+               self.data = json.loads(await websocket.recv())['data']
+               if self.data['U'] <=  self.orderbook['lastUpdateId'] + 1 and self.data['u'] >=  self.orderbook['lastUpdateId'] + 1:
+                   self.orderbook['lastUpdateId'] = self.data['u']
+                   self.update_order_book(self.data)
                else:
                    print('discard update')
 
     async def bookticker(self):
         urlbt = "wss://stream.binance.com:9443/stream?streams=maticusdt@bookTicker"
         async with websockets.connect(urlbt) as websocket2:
-            with open(f'BookTickerDATA_{now}.txt', "a") as file:
+            with open(f'matching_{now}.txt', "a") as file:
                 while True:
                     self.data2 = json.loads(await websocket2.recv())['data']
-                    print('Book Ticker best bids: ', self.data2['b'], self.data2['B'], "Last update id: ", self.data2['u'])
-                    print('Book Ticker best asks: ', self.data2['a'], self.data2['A'], "Last update id: ", self.data2['u'])
-                    file.writelines(f"best ask: {self.data2['a']}, best bid: {self.data2['b']}, Last update id: {self.data2['u']} \n")
+                    #print('Book Ticker best bids: ', self.data2['b'], self.data2['B'], "Last update id: ", self.data2['u'])
+                    #print('Book Ticker best asks: ', self.data2['a'], self.data2['A'], "Last update id: ", self.data2['u'])
+                    #print('Book Ticker bests: ', self.data2['b'], self.data2['B'])
+                    if self.orderbook['lastUpdateId'] == self.data2['u']:
+                        file.writelines(f"OrderBook  - best ask: {self.orderbook['asks'][0][0]}, best bid: {self.orderbook['bids'][0][0]}, Last update id: {self.data['u']} \n"
+                                        f"BookTicker - best ask: {self.data2['a']}, best bid: {self.data2['b']}, Last update id: {self.data2['u']} \n\n")
+                        if self.orderbook['asks'][0][0] == self.data2['a'] and self.orderbook['bids'][0][0] == self.data2['b']:
+                            print(f"Match at: {self.data['u']} \n"
+                                  f"OrderBook  - best ask: {self.orderbook['asks'][0][0]}, best bid: {self.orderbook['bids'][0][0]} \n"
+                                  f"BookTicker - best ask: {self.data2['a']}, best bid: {self.data2['b']}")
+
+                    #print('OrderBook:', *self.orderbook['bids'][0], *self.orderbook['asks'][0], "---",   ### Печатаем тиковые данные и буктикера и ордербука
+                    #  'BookTicker:', self.data2['b'], self.data2['B'], self.data2['a'], self.data2['A'])
 
 
     def update_order_book(self, data):
         with open(f'OrderBookData_{now}.txt', "a") as file:
             for update in data['b']:
                 self.manage_orderbook('bids', update)
-            print('Order book best bids: ', self.orderbook['bids'][0],  "Last update id: ", data['u'])
+            #print('Order book best bids: ', self.orderbook['bids'][0],  "Last update id: ", data['u'])
             for update in data['a']:
                 self.manage_orderbook('asks', update)
-            print('Order book best asks: ', self.orderbook['asks'][0], "Last update id: ", data['u'])
+            #print('Order book best asks: ', self.orderbook['asks'][0], "Last update id: ", data['u'])
             file.writelines(f"best ask: {self.orderbook['asks'][0]}, best bid: {self.orderbook['bids'][0]}, Last update id: {data['u']} \n")
 
     def manage_orderbook(self, side, update):

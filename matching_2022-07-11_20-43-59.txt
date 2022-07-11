@@ -1,0 +1,972 @@
+OrderBook  - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589375949 
+BookTicker - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589375949 
+
+OrderBook  - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589375997 
+BookTicker - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589375997 
+
+OrderBook  - best ask: 0.58870000, best bid: 0.58860000, Last update id: 3589376742 
+BookTicker - best ask: 0.58870000, best bid: 0.58860000, Last update id: 3589376742 
+
+OrderBook  - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377098 
+BookTicker - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377098 
+
+OrderBook  - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377276 
+BookTicker - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377276 
+
+OrderBook  - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377332 
+BookTicker - best ask: 0.58890000, best bid: 0.58880000, Last update id: 3589377332 
+
+OrderBook  - best ask: 0.58850000, best bid: 0.58840000, Last update id: 3589377931 
+BookTicker - best ask: 0.58850000, best bid: 0.58840000, Last update id: 3589377931 
+
+OrderBook  - best ask: 0.58850000, best bid: 0.58840000, Last update id: 3589377981 
+BookTicker - best ask: 0.58850000, best bid: 0.58840000, Last update id: 3589377981 
+
+OrderBook  - best ask: 0.58820000, best bid: 0.58810000, Last update id: 3589378881 
+BookTicker - best ask: 0.58820000, best bid: 0.58810000, Last update id: 3589378881 
+
+OrderBook  - best ask: 0.58820000, best bid: 0.58810000, Last update id: 3589378942 
+BookTicker - best ask: 0.58820000, best bid: 0.58810000, Last update id: 3589378942 
+
+OrderBook  - best ask: 0.58800000, best bid: 0.58790000, Last update id: 3589379270 
+BookTicker - best ask: 0.58800000, best bid: 0.58790000, Last update id: 3589379270 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589379577 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589379577 
+
+OrderBook  - best ask: 0.58760000, best bid: 0.58740000, Last update id: 3589379863 
+BookTicker - best ask: 0.58760000, best bid: 0.58740000, Last update id: 3589379863 
+
+OrderBook  - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589380091 
+BookTicker - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589380091 
+
+OrderBook  - best ask: 0.58780000, best bid: 0.58770000, Last update id: 3589380458 
+BookTicker - best ask: 0.58780000, best bid: 0.58770000, Last update id: 3589380458 
+
+OrderBook  - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589380808 
+BookTicker - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589380808 
+
+OrderBook  - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589381279 
+BookTicker - best ask: 0.58750000, best bid: 0.58740000, Last update id: 3589381279 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589381915 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589381915 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589381918 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589381918 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382119 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382119 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382132 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382132 
+
+OrderBook  - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382202 
+BookTicker - best ask: 0.58790000, best bid: 0.58780000, Last update id: 3589382202 
+
+OrderBook  - best ask: 0.58840000, best bid: 0.58830000, Last update id: 3589382633 
+BookTicker - best ask: 0.58840000, best bid: 0.58830000, Last update id: 3589382633 
+
+OrderBook  - best ask: 0.58830000, best bid: 0.58820000, Last update id: 3589382846 
+BookTicker - best ask: 0.58830000, best bid: 0.58820000, Last update id: 3589382846 
+
+OrderBook  - best ask: 0.58840000, best bid: 0.58830000, Last update id: 3589382930 
+BookTicker - best ask: 0.58840000, best bid: 0.58830000, Last update id: 3589382930 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589384841 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589384841 
+
+OrderBook  - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589387647 
+BookTicker - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589387647 
+
+OrderBook  - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589388206 
+BookTicker - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589388206 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589389032 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589389032 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589389506 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589389506 
+
+OrderBook  - best ask: 0.59090000, best bid: 0.59080000, Last update id: 3589390155 
+BookTicker - best ask: 0.59090000, best bid: 0.59080000, Last update id: 3589390155 
+
+OrderBook  - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589390773 
+BookTicker - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589390773 
+
+OrderBook  - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589390779 
+BookTicker - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589390779 
+
+OrderBook  - best ask: 0.59130000, best bid: 0.59120000, Last update id: 3589390850 
+BookTicker - best ask: 0.59130000, best bid: 0.59120000, Last update id: 3589390850 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391550 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391550 
+
+OrderBook  - best ask: 0.59050000, best bid: 0.59040000, Last update id: 3589391863 
+BookTicker - best ask: 0.59050000, best bid: 0.59040000, Last update id: 3589391863 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391951 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391951 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391969 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589391969 
+
+OrderBook  - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589392245 
+BookTicker - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589392245 
+
+OrderBook  - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589393515 
+BookTicker - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589393515 
+
+OrderBook  - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589393754 
+BookTicker - best ask: 0.59080000, best bid: 0.59070000, Last update id: 3589393754 
+
+OrderBook  - best ask: 0.59100000, best bid: 0.59090000, Last update id: 3589395242 
+BookTicker - best ask: 0.59100000, best bid: 0.59090000, Last update id: 3589395242 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589396325 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589396325 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589396764 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589396764 
+
+OrderBook  - best ask: 0.58920000, best bid: 0.58910000, Last update id: 3589400104 
+BookTicker - best ask: 0.58920000, best bid: 0.58910000, Last update id: 3589400104 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589400806 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589400806 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589401179 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589401179 
+
+OrderBook  - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589401948 
+BookTicker - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589401948 
+
+OrderBook  - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589403466 
+BookTicker - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589403466 
+
+OrderBook  - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589403526 
+BookTicker - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589403526 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403575 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403575 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403616 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403616 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403858 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589403858 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58960000, Last update id: 3589404211 
+BookTicker - best ask: 0.58980000, best bid: 0.58960000, Last update id: 3589404211 
+
+OrderBook  - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589404953 
+BookTicker - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589404953 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589405455 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589405455 
+
+OrderBook  - best ask: 0.59030000, best bid: 0.59020000, Last update id: 3589406978 
+BookTicker - best ask: 0.59030000, best bid: 0.59020000, Last update id: 3589406978 
+
+OrderBook  - best ask: 0.59040000, best bid: 0.59030000, Last update id: 3589407597 
+BookTicker - best ask: 0.59040000, best bid: 0.59030000, Last update id: 3589407597 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589408193 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589408193 
+
+OrderBook  - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589408404 
+BookTicker - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589408404 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589409736 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589409736 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589410407 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589410407 
+
+OrderBook  - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589410633 
+BookTicker - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589410633 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589411306 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589411306 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411571 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411571 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411693 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411693 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411701 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411701 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411811 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589411811 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412626 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412626 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412685 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412685 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412695 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412695 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412876 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589412876 
+
+OrderBook  - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589412991 
+BookTicker - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589412991 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589413176 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589413176 
+
+OrderBook  - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589413425 
+BookTicker - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589413425 
+
+OrderBook  - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589413654 
+BookTicker - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589413654 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589413843 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589413843 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589414198 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589414198 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589414573 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589414573 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589414817 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589414817 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589415014 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589415014 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589415392 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589415392 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589415404 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589415404 
+
+OrderBook  - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589415497 
+BookTicker - best ask: 0.58990000, best bid: 0.58980000, Last update id: 3589415497 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589415978 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589415978 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589416083 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589416083 
+
+OrderBook  - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589416458 
+BookTicker - best ask: 0.58980000, best bid: 0.58970000, Last update id: 3589416458 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589416639 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589416639 
+
+OrderBook  - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589416727 
+BookTicker - best ask: 0.58950000, best bid: 0.58940000, Last update id: 3589416727 
+
+OrderBook  - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589416949 
+BookTicker - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589416949 
+
+OrderBook  - best ask: 0.58930000, best bid: 0.58920000, Last update id: 3589417055 
+BookTicker - best ask: 0.58930000, best bid: 0.58920000, Last update id: 3589417055 
+
+OrderBook  - best ask: 0.58930000, best bid: 0.58910000, Last update id: 3589417167 
+BookTicker - best ask: 0.58930000, best bid: 0.58910000, Last update id: 3589417167 
+
+OrderBook  - best ask: 0.58910000, best bid: 0.58900000, Last update id: 3589417907 
+BookTicker - best ask: 0.58910000, best bid: 0.58900000, Last update id: 3589417907 
+
+OrderBook  - best ask: 0.58870000, best bid: 0.58860000, Last update id: 3589418281 
+BookTicker - best ask: 0.58870000, best bid: 0.58860000, Last update id: 3589418281 
+
+OrderBook  - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589419546 
+BookTicker - best ask: 0.58960000, best bid: 0.58950000, Last update id: 3589419546 
+
+OrderBook  - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589419849 
+BookTicker - best ask: 0.58970000, best bid: 0.58960000, Last update id: 3589419849 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589420396 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589420396 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421319 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421319 
+
+OrderBook  - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421364 
+BookTicker - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421364 
+
+OrderBook  - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421444 
+BookTicker - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421444 
+
+OrderBook  - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421493 
+BookTicker - best ask: 0.59020000, best bid: 0.59010000, Last update id: 3589421493 
+
+OrderBook  - best ask: 0.59040000, best bid: 0.59030000, Last update id: 3589421520 
+BookTicker - best ask: 0.59040000, best bid: 0.59030000, Last update id: 3589421520 
+
+OrderBook  - best ask: 0.59030000, best bid: 0.59020000, Last update id: 3589421731 
+BookTicker - best ask: 0.59030000, best bid: 0.59020000, Last update id: 3589421731 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421913 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421913 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421918 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421918 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421941 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589421941 
+
+OrderBook  - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589422161 
+BookTicker - best ask: 0.59000000, best bid: 0.58990000, Last update id: 3589422161 
+
+OrderBook  - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589422944 
+BookTicker - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589422944 
+
+OrderBook  - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589422946 
+BookTicker - best ask: 0.58940000, best bid: 0.58930000, Last update id: 3589422946 
+
+OrderBook  - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589424090 
+BookTicker - best ask: 0.59010000, best bid: 0.59000000, Last update id: 3589424090 
+
+OrderBook  - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589425090 
+BookTicker - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589425090 
+
+OrderBook  - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589425189 
+BookTicker - best ask: 0.59060000, best bid: 0.59050000, Last update id: 3589425189 
+
+OrderBook  - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589425635 
+BookTicker - best ask: 0.59070000, best bid: 0.59060000, Last update id: 3589425635 
+
+OrderBook  - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589427185 
+BookTicker - best ask: 0.59140000, best bid: 0.59130000, Last update id: 3589427185 
+
+OrderBook  - best ask: 0.59180000, best bid: 0.59160000, Last update id: 3589427320 
+BookTicker - best ask: 0.59180000, best bid: 0.59160000, Last update id: 3589427320 
+
+OrderBook  - best ask: 0.59340000, best bid: 0.59320000, Last update id: 3589430284 
+BookTicker - best ask: 0.59340000, best bid: 0.59320000, Last update id: 3589430284 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431448 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431448 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431471 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431471 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431516 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589431516 
+
+OrderBook  - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589431545 
+BookTicker - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589431545 
+
+OrderBook  - best ask: 0.59520000, best bid: 0.59510000, Last update id: 3589432458 
+BookTicker - best ask: 0.59520000, best bid: 0.59510000, Last update id: 3589432458 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589432807 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589432807 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589432865 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589432865 
+
+OrderBook  - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589434818 
+BookTicker - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589434818 
+
+OrderBook  - best ask: 0.59380000, best bid: 0.59370000, Last update id: 3589435495 
+BookTicker - best ask: 0.59380000, best bid: 0.59370000, Last update id: 3589435495 
+
+OrderBook  - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435883 
+BookTicker - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435883 
+
+OrderBook  - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435901 
+BookTicker - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435901 
+
+OrderBook  - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435927 
+BookTicker - best ask: 0.59360000, best bid: 0.59350000, Last update id: 3589435927 
+
+OrderBook  - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589436251 
+BookTicker - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589436251 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589436726 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589436726 
+
+OrderBook  - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589437277 
+BookTicker - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589437277 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589437316 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589437316 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589437504 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589437504 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589438920 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589438920 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589439185 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589439185 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589440109 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589440109 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589440148 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589440148 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589441750 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589441750 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589442415 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589442415 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589443455 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589443455 
+
+OrderBook  - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589444034 
+BookTicker - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589444034 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59300000, Last update id: 3589445496 
+BookTicker - best ask: 0.59320000, best bid: 0.59300000, Last update id: 3589445496 
+
+OrderBook  - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589446680 
+BookTicker - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589446680 
+
+OrderBook  - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589447001 
+BookTicker - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589447001 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589447875 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589447875 
+
+OrderBook  - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448364 
+BookTicker - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448364 
+
+OrderBook  - best ask: 0.59240000, best bid: 0.59220000, Last update id: 3589448518 
+BookTicker - best ask: 0.59240000, best bid: 0.59220000, Last update id: 3589448518 
+
+OrderBook  - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448692 
+BookTicker - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448692 
+
+OrderBook  - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448767 
+BookTicker - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589448767 
+
+OrderBook  - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449084 
+BookTicker - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449084 
+
+OrderBook  - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449089 
+BookTicker - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449089 
+
+OrderBook  - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449184 
+BookTicker - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449184 
+
+OrderBook  - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449301 
+BookTicker - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449301 
+
+OrderBook  - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449467 
+BookTicker - best ask: 0.59220000, best bid: 0.59210000, Last update id: 3589449467 
+
+OrderBook  - best ask: 0.59240000, best bid: 0.59230000, Last update id: 3589449923 
+BookTicker - best ask: 0.59240000, best bid: 0.59230000, Last update id: 3589449923 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589450364 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589450364 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59280000, Last update id: 3589451254 
+BookTicker - best ask: 0.59300000, best bid: 0.59280000, Last update id: 3589451254 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589451377 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589451377 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589451446 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589451446 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589451483 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589451483 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589451699 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589451699 
+
+OrderBook  - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589452370 
+BookTicker - best ask: 0.59250000, best bid: 0.59240000, Last update id: 3589452370 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589452601 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589452601 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589452672 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589452672 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589453086 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589453086 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589453685 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589453685 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589454143 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589454143 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589454270 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589454270 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589454462 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589454462 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589455313 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589455313 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589456316 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589456316 
+
+OrderBook  - best ask: 0.59230000, best bid: 0.59220000, Last update id: 3589457396 
+BookTicker - best ask: 0.59230000, best bid: 0.59220000, Last update id: 3589457396 
+
+OrderBook  - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589458439 
+BookTicker - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589458439 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59270000, Last update id: 3589458944 
+BookTicker - best ask: 0.59300000, best bid: 0.59270000, Last update id: 3589458944 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589459901 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589459901 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589460055 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589460055 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589460321 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589460321 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589460661 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589460661 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589460823 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589460823 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589461584 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589461584 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589461872 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589461872 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589462053 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589462053 
+
+OrderBook  - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589462381 
+BookTicker - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589462381 
+
+OrderBook  - best ask: 0.59390000, best bid: 0.59380000, Last update id: 3589462877 
+BookTicker - best ask: 0.59390000, best bid: 0.59380000, Last update id: 3589462877 
+
+OrderBook  - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589463429 
+BookTicker - best ask: 0.59340000, best bid: 0.59330000, Last update id: 3589463429 
+
+OrderBook  - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589465970 
+BookTicker - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589465970 
+
+OrderBook  - best ask: 0.59470000, best bid: 0.59450000, Last update id: 3589466052 
+BookTicker - best ask: 0.59470000, best bid: 0.59450000, Last update id: 3589466052 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589467650 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589467650 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589469000 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589469000 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589469382 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589469382 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589469475 
+BookTicker - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589469475 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589469572 
+BookTicker - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589469572 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470132 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470132 
+
+OrderBook  - best ask: 0.59490000, best bid: 0.59470000, Last update id: 3589470449 
+BookTicker - best ask: 0.59490000, best bid: 0.59470000, Last update id: 3589470449 
+
+OrderBook  - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589470555 
+BookTicker - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589470555 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470860 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470860 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470865 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589470865 
+
+OrderBook  - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589471064 
+BookTicker - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589471064 
+
+OrderBook  - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589473762 
+BookTicker - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589473762 
+
+OrderBook  - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589473915 
+BookTicker - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589473915 
+
+OrderBook  - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589474329 
+BookTicker - best ask: 0.59400000, best bid: 0.59390000, Last update id: 3589474329 
+
+OrderBook  - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589475041 
+BookTicker - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589475041 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589476429 
+BookTicker - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589476429 
+
+OrderBook  - best ask: 0.59570000, best bid: 0.59560000, Last update id: 3589476850 
+BookTicker - best ask: 0.59570000, best bid: 0.59560000, Last update id: 3589476850 
+
+OrderBook  - best ask: 0.59580000, best bid: 0.59560000, Last update id: 3589476942 
+BookTicker - best ask: 0.59580000, best bid: 0.59560000, Last update id: 3589476942 
+
+OrderBook  - best ask: 0.59530000, best bid: 0.59520000, Last update id: 3589477653 
+BookTicker - best ask: 0.59530000, best bid: 0.59520000, Last update id: 3589477653 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59530000, Last update id: 3589477705 
+BookTicker - best ask: 0.59550000, best bid: 0.59530000, Last update id: 3589477705 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589477883 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589477883 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589477924 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589477924 
+
+OrderBook  - best ask: 0.59570000, best bid: 0.59560000, Last update id: 3589478164 
+BookTicker - best ask: 0.59570000, best bid: 0.59560000, Last update id: 3589478164 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589479305 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589479305 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589479509 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589479509 
+
+OrderBook  - best ask: 0.59610000, best bid: 0.59600000, Last update id: 3589481822 
+BookTicker - best ask: 0.59610000, best bid: 0.59600000, Last update id: 3589481822 
+
+OrderBook  - best ask: 0.59590000, best bid: 0.59570000, Last update id: 3589482081 
+BookTicker - best ask: 0.59590000, best bid: 0.59570000, Last update id: 3589482081 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589483067 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589483067 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589483728 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589483728 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589485557 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589485557 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589485598 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589485598 
+
+OrderBook  - best ask: 0.59500000, best bid: 0.59490000, Last update id: 3589485643 
+BookTicker - best ask: 0.59500000, best bid: 0.59490000, Last update id: 3589485643 
+
+OrderBook  - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589486163 
+BookTicker - best ask: 0.59480000, best bid: 0.59470000, Last update id: 3589486163 
+
+OrderBook  - best ask: 0.59460000, best bid: 0.59440000, Last update id: 3589486355 
+BookTicker - best ask: 0.59460000, best bid: 0.59440000, Last update id: 3589486355 
+
+OrderBook  - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589486560 
+BookTicker - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589486560 
+
+OrderBook  - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589486574 
+BookTicker - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589486574 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59490000, Last update id: 3589486833 
+BookTicker - best ask: 0.59510000, best bid: 0.59490000, Last update id: 3589486833 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589487317 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589487317 
+
+OrderBook  - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589487591 
+BookTicker - best ask: 0.59540000, best bid: 0.59530000, Last update id: 3589487591 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589487768 
+BookTicker - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589487768 
+
+OrderBook  - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589487845 
+BookTicker - best ask: 0.59550000, best bid: 0.59540000, Last update id: 3589487845 
+
+OrderBook  - best ask: 0.59500000, best bid: 0.59490000, Last update id: 3589488662 
+BookTicker - best ask: 0.59500000, best bid: 0.59490000, Last update id: 3589488662 
+
+OrderBook  - best ask: 0.59520000, best bid: 0.59510000, Last update id: 3589489873 
+BookTicker - best ask: 0.59520000, best bid: 0.59510000, Last update id: 3589489873 
+
+OrderBook  - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589489910 
+BookTicker - best ask: 0.59510000, best bid: 0.59500000, Last update id: 3589489910 
+
+OrderBook  - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589490182 
+BookTicker - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589490182 
+
+OrderBook  - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589491411 
+BookTicker - best ask: 0.59490000, best bid: 0.59480000, Last update id: 3589491411 
+
+OrderBook  - best ask: 0.59460000, best bid: 0.59450000, Last update id: 3589491765 
+BookTicker - best ask: 0.59460000, best bid: 0.59450000, Last update id: 3589491765 
+
+OrderBook  - best ask: 0.59460000, best bid: 0.59450000, Last update id: 3589491904 
+BookTicker - best ask: 0.59460000, best bid: 0.59450000, Last update id: 3589491904 
+
+OrderBook  - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589491955 
+BookTicker - best ask: 0.59470000, best bid: 0.59460000, Last update id: 3589491955 
+
+OrderBook  - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589494148 
+BookTicker - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589494148 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589494275 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589494275 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589494319 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589494319 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589494710 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589494710 
+
+OrderBook  - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589494896 
+BookTicker - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589494896 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589495284 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589495284 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589495366 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589495366 
+
+OrderBook  - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589495946 
+BookTicker - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589495946 
+
+OrderBook  - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589496012 
+BookTicker - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589496012 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589496394 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589496394 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589497678 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589497678 
+
+OrderBook  - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589497729 
+BookTicker - best ask: 0.59450000, best bid: 0.59440000, Last update id: 3589497729 
+
+OrderBook  - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589498045 
+BookTicker - best ask: 0.59430000, best bid: 0.59420000, Last update id: 3589498045 
+
+OrderBook  - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589498138 
+BookTicker - best ask: 0.59420000, best bid: 0.59410000, Last update id: 3589498138 
+
+OrderBook  - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589498663 
+BookTicker - best ask: 0.59410000, best bid: 0.59400000, Last update id: 3589498663 
+
+OrderBook  - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589503787 
+BookTicker - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589503787 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589503915 
+BookTicker - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589503915 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589503922 
+BookTicker - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589503922 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589504108 
+BookTicker - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589504108 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589504153 
+BookTicker - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589504153 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589504544 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589504544 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589504581 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589504581 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504596 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504596 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504648 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504648 
+
+OrderBook  - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504823 
+BookTicker - best ask: 0.59290000, best bid: 0.59280000, Last update id: 3589504823 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589504849 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589504849 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589505402 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589505402 
+
+OrderBook  - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589505479 
+BookTicker - best ask: 0.59260000, best bid: 0.59250000, Last update id: 3589505479 
+
+OrderBook  - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589506102 
+BookTicker - best ask: 0.59320000, best bid: 0.59310000, Last update id: 3589506102 
+
+OrderBook  - best ask: 0.59310000, best bid: 0.59300000, Last update id: 3589506295 
+BookTicker - best ask: 0.59310000, best bid: 0.59300000, Last update id: 3589506295 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589506775 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589506775 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589506957 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589506957 
+
+OrderBook  - best ask: 0.59310000, best bid: 0.59300000, Last update id: 3589507108 
+BookTicker - best ask: 0.59310000, best bid: 0.59300000, Last update id: 3589507108 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589507181 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589507181 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589507200 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589507200 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589507317 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589507317 
+
+OrderBook  - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589508039 
+BookTicker - best ask: 0.59270000, best bid: 0.59260000, Last update id: 3589508039 
+
+OrderBook  - best ask: 0.59200000, best bid: 0.59190000, Last update id: 3589509223 
+BookTicker - best ask: 0.59200000, best bid: 0.59190000, Last update id: 3589509223 
+
+OrderBook  - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589517353 
+BookTicker - best ask: 0.59280000, best bid: 0.59270000, Last update id: 3589517353 
+
+OrderBook  - best ask: 0.59230000, best bid: 0.59220000, Last update id: 3589518330 
+BookTicker - best ask: 0.59230000, best bid: 0.59220000, Last update id: 3589518330 
+
+OrderBook  - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589519143 
+BookTicker - best ask: 0.59300000, best bid: 0.59290000, Last update id: 3589519143 
+
+OrderBook  - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589519921 
+BookTicker - best ask: 0.59330000, best bid: 0.59320000, Last update id: 3589519921 
+
+OrderBook  - best ask: 0.59440000, best bid: 0.59430000, Last update id: 3589522481 
+BookTicker - best ask: 0.59440000, best bid: 0.59430000, Last update id: 3589522481 
+
+OrderBook  - best ask: 0.59460000, best bid: 0.59440000, Last update id: 3589524806 
+BookTicker - best ask: 0.59460000, best bid: 0.59440000, Last update id: 3589524806 
+
+OrderBook  - best ask: 0.59530000, best bid: 0.59520000, Last update id: 3589529877 
+BookTicker - best ask: 0.59530000, best bid: 0.59520000, Last update id: 3589529877 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589530215 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589530215 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589530961 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589530961 
+
+OrderBook  - best ask: 0.59590000, best bid: 0.59580000, Last update id: 3589531591 
+BookTicker - best ask: 0.59590000, best bid: 0.59580000, Last update id: 3589531591 
+
+OrderBook  - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589532487 
+BookTicker - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589532487 
+
+OrderBook  - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589533749 
+BookTicker - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589533749 
+
+OrderBook  - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589534824 
+BookTicker - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589534824 
+
+OrderBook  - best ask: 0.59660000, best bid: 0.59650000, Last update id: 3589535175 
+BookTicker - best ask: 0.59660000, best bid: 0.59650000, Last update id: 3589535175 
+
+OrderBook  - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589535220 
+BookTicker - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589535220 
+
+OrderBook  - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589535816 
+BookTicker - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589535816 
+
+OrderBook  - best ask: 0.59710000, best bid: 0.59700000, Last update id: 3589539158 
+BookTicker - best ask: 0.59710000, best bid: 0.59700000, Last update id: 3589539158 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589540480 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589540480 
+
+OrderBook  - best ask: 0.59680000, best bid: 0.59670000, Last update id: 3589543150 
+BookTicker - best ask: 0.59680000, best bid: 0.59670000, Last update id: 3589543150 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589543980 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589543980 
+
+OrderBook  - best ask: 0.59530000, best bid: 0.59510000, Last update id: 3589546126 
+BookTicker - best ask: 0.59530000, best bid: 0.59510000, Last update id: 3589546126 
+
+OrderBook  - best ask: 0.59760000, best bid: 0.59730000, Last update id: 3589560775 
+BookTicker - best ask: 0.59760000, best bid: 0.59730000, Last update id: 3589560775 
+
+OrderBook  - best ask: 0.59740000, best bid: 0.59730000, Last update id: 3589562564 
+BookTicker - best ask: 0.59740000, best bid: 0.59730000, Last update id: 3589562564 
+
+OrderBook  - best ask: 0.59790000, best bid: 0.59780000, Last update id: 3589563393 
+BookTicker - best ask: 0.59790000, best bid: 0.59780000, Last update id: 3589563393 
+
+OrderBook  - best ask: 0.59760000, best bid: 0.59750000, Last update id: 3589564824 
+BookTicker - best ask: 0.59760000, best bid: 0.59750000, Last update id: 3589564824 
+
+OrderBook  - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589565770 
+BookTicker - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589565770 
+
+OrderBook  - best ask: 0.59790000, best bid: 0.59780000, Last update id: 3589566472 
+BookTicker - best ask: 0.59790000, best bid: 0.59780000, Last update id: 3589566472 
+
+OrderBook  - best ask: 0.59720000, best bid: 0.59710000, Last update id: 3589568346 
+BookTicker - best ask: 0.59720000, best bid: 0.59710000, Last update id: 3589568346 
+
+OrderBook  - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589569287 
+BookTicker - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589569287 
+
+OrderBook  - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589571580 
+BookTicker - best ask: 0.59560000, best bid: 0.59550000, Last update id: 3589571580 
+
+OrderBook  - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589573148 
+BookTicker - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589573148 
+
+OrderBook  - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589573224 
+BookTicker - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589573224 
+
+OrderBook  - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589573596 
+BookTicker - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589573596 
+
+OrderBook  - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589578928 
+BookTicker - best ask: 0.59700000, best bid: 0.59690000, Last update id: 3589578928 
+
+OrderBook  - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589580838 
+BookTicker - best ask: 0.59690000, best bid: 0.59680000, Last update id: 3589580838 
+
+OrderBook  - best ask: 0.59740000, best bid: 0.59730000, Last update id: 3589581601 
+BookTicker - best ask: 0.59740000, best bid: 0.59730000, Last update id: 3589581601 
+
+OrderBook  - best ask: 0.59760000, best bid: 0.59750000, Last update id: 3589582722 
+BookTicker - best ask: 0.59760000, best bid: 0.59750000, Last update id: 3589582722 
+
+OrderBook  - best ask: 0.59750000, best bid: 0.59740000, Last update id: 3589584022 
+BookTicker - best ask: 0.59750000, best bid: 0.59740000, Last update id: 3589584022 
+
+OrderBook  - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589586903 
+BookTicker - best ask: 0.59670000, best bid: 0.59660000, Last update id: 3589586903 
+
+OrderBook  - best ask: 0.59680000, best bid: 0.59670000, Last update id: 3589587538 
+BookTicker - best ask: 0.59680000, best bid: 0.59670000, Last update id: 3589587538 
+
+OrderBook  - best ask: 0.59720000, best bid: 0.59710000, Last update id: 3589587984 
+BookTicker - best ask: 0.59720000, best bid: 0.59710000, Last update id: 3589587984 
+
+OrderBook  - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589590501 
+BookTicker - best ask: 0.59630000, best bid: 0.59620000, Last update id: 3589590501 
+
+OrderBook  - best ask: 0.59610000, best bid: 0.59600000, Last update id: 3589591544 
+BookTicker - best ask: 0.59610000, best bid: 0.59600000, Last update id: 3589591544 
+
+OrderBook  - best ask: 0.59600000, best bid: 0.59590000, Last update id: 3589591682 
+BookTicker - best ask: 0.59600000, best bid: 0.59590000, Last update id: 3589591682 
+
+OrderBook  - best ask: 0.59650000, best bid: 0.59640000, Last update id: 3589592004 
+BookTicker - best ask: 0.59650000, best bid: 0.59640000, Last update id: 3589592004 
+
+OrderBook  - best ask: 0.59650000, best bid: 0.59640000, Last update id: 3589592045 
+BookTicker - best ask: 0.59650000, best bid: 0.59640000, Last update id: 3589592045 
+
+OrderBook  - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589596652 
+BookTicker - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589596652 
+
+OrderBook  - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589598062 
+BookTicker - best ask: 0.59640000, best bid: 0.59630000, Last update id: 3589598062 
+
+OrderBook  - best ask: 0.59620000, best bid: 0.59610000, Last update id: 3589598733 
+BookTicker - best ask: 0.59620000, best bid: 0.59610000, Last update id: 3589598733 
+
+OrderBook  - best ask: 0.59590000, best bid: 0.59580000, Last update id: 3589600599 
+BookTicker - best ask: 0.59590000, best bid: 0.59580000, Last update id: 3589600599 
+
